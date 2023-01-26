@@ -18,4 +18,4 @@ This ETL project demonstrates the process of extracting, transforming, and loadi
 Install the required packages by running `pip install -r requirements.txt`
 Run the ETL pipeline by running `python run_etl.py`
 ## Additional Resources
-Pandas documentation
+[Pandas documentation](https://pandas.pydata.org/docs/)
