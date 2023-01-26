@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "age": 35,
+            "address": {
+                "street": "123 Main St",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "12345"
+            },
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "555-555-1234"
+                },
+                {
+                    "type": "work",
+                    "number": "555-555-5678"
+                }
+            ],
+            "email": "john.smith@example.com",
+            "isActive": true,
+            "createdAt": "2022-01-01T12:00:00Z",
+            "updatedAt": "2022-01-01T12:00:00Z"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "age": 28,
+            "address": {
+                "street": "456 Park Ave",
+                "city": "Anytown",
+                "state": "CA",
+                "zip": "67890"
+            },
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "555-555-4321"
+                },
+                {
+                    "type": "work",
+                    "number": "555-555-8765"
+                }
+            ],
+            "email": "jane.doe@example.com",
+            "isActive": true,
+            "createdAt": "2022-01-01T12:00:00Z",
+            "updatedAt": "2022-01-01T12:00:00Z"
+        }
+    ],
+    "metadata": {
+        "totalCount": 2,
+        "page": 1,
+        "limit": 20,
+        "generatedAt": "2022-01-01T12:00:00Z"
+    }
+}

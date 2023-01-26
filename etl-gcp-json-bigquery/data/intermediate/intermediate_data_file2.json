@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "vehicle_id": "A123",
+            "name": "Vehicle 1",
+            "speed": 45,
+            "location": "Barcelona",
+            "time_stamp": "2022-01-01T12:00:00Z",
+            "distance_traveled": 150
+        },
+        {
+            "vehicle_id": "B456",
+            "name": "Vehicle 2",
+            "speed": 60,
+            "location": "Barcelona",
+            "time_stamp": "2022-01-01T12:00:00Z",
+            "distance_traveled": 200
+        },
+        {
+            "vehicle_id": "C789",
+            "name": "Vehicle 3",
+            "speed": 35,
+            "location": "Barcelona",
+            "time_stamp": "2022-01-01T12:00:00Z",
+            "distance_traveled": 100
+        }
+    ],
+    "metadata": {
+        "total_count": 3,
+        "page": 1,
+        "limit": 20,
+        "generated_at": "2022-01-01T12:00:00Z"
+    }
+}

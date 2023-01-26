@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "vehicleId": "A123",
+                "name": "Vehicle 1",
+                "speed": 45
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.154150,
+                    41.398530
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vehicleId": "B456",
+                "name": "Vehicle 2",
+                "speed": 60
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.177210,
+                    41.381880
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "vehicleId": "C789",
+                "name": "Vehicle 3",
+                "speed": 35
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.184810,
+                    41.378440
+                ]
+            }
+        }
+    ]
+}
